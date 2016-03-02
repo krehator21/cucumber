@@ -3,10 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cucumber-school</groupId>
-    <artifactId>shouty</artifactId>
+    <artifactId>shouty-11-12</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
-    <name>Shouty</name>
+    <name>Shouty-11-12</name>
 
     <dependencies>
         <dependency>
