@@ -63,6 +63,9 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
   <component name="SequencePlugin.Configuration">
     <option name="CLASS_COLOR" value="cccc00" />
     <option name="EXTERNAL_CLASS_COLOR" value="ff6666" />
